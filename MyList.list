@@ -1,4 +1,4 @@
 # (DNS Cache Pollution)
 # > Facebook
-DOMAIN-SUFFIX,scontent-iad3-2.xx.fbcdn.net
-DOMAIN-SUFFIX,scontent-iad3-2.cdninstagram.com
+DOMAIN,scontent-iad3-2.xx.fbcdn.net
+DOMAIN,scontent-iad3-2.cdninstagram.com
